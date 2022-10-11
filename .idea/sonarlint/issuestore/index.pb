@@ -1,0 +1,25 @@
+
+k
+;src/main/java/com/macro/mall/tiny/mbg/CommentGenerator.java,f\e\fe814e612814e02416ba77c6994ace99365d9876
+l
+<src/main/java/com/macro/mall/tiny/common/api/CommonPage.java,4\5\45378073a2f3663c7d1289f79a3e2b452abc838b
+n
+>src/main/java/com/macro/mall/tiny/common/api/CommonResult.java,7\d\7dc45a33b544100786ae52a035f245cfcbb1babe
+d
+4src/main/java/com/macro/mall/tiny/mbg/Generator.java,d\c\dcfd583b6e3fabf7cfeafbf06f925b06ce89a57d
+A
+GHMailProject.iml,6\4\647a433baa805a1ab2153504abe3dbda1dad79c0
+l
+<src/main/java/com/macro/mall/tiny/common/api/IErrorCode.java,8\5\8582e3cb9a46d2d73bc905d21211300cdeb1e2a6
+k
+;src/main/java/com/macro/mall/tiny/config/MyBatisConfig.java,3\5\35e3b7498d0af8f197c4e5637c4d8a9398d2a392
+p
+@src/main/java/com/macro/mall/tiny/mbg/model/PmsBrandExample.java,c\8\c894d8e6eb936da03c37172db94d367bc23c61ff
+o
+?src/main/java/com/macro/mall/tiny/mbg/mapper/PmsBrandMapper.xml,2\9\29baf76171c4824784fa9b448085d3f3d8512872
+l
+<src/main/java/com/macro/mall/tiny/common/api/ResultCode.java,1\0\1073425bb14e2acb08da04a168754020f1367033
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
