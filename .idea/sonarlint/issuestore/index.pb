@@ -25,3 +25,7 @@ LmallProject02/src/main/java/com/macro/mall/tiny/service/PmsBrandService.java,5
 UmallProject02/src/main/java/com/macro/mall/tiny/service/impl/PmsBrandServiceImpl.java,a\5\a540cc224e68b78b842a66e414e5e0122e46987c
 z
 JmallProject02/src/main/java/com/macro/mall/tiny/common/api/ResultCode.java,0\f\0fa1adc1c927d734d2ea5534f8be6a314f7ac414
+i
+9src/main/java/com/macro/mall/tiny/mbg/model/PmsBrand.java,8\4\844e508a8adac3ebf56f0168f56584fce82f2fbb
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec

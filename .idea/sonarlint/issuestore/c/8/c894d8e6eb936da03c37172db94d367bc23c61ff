@@ -1,0 +1,27 @@
+
+g	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(ÔÁñÍøÿÿÿÿ8Äåˆ¼0
+g	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(õÜ—ºşÿÿÿÿ8Äåˆ¼0
+a	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(ìá¤
+8Äåˆ¼0
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏßÉe8Êåˆ¼0
+v
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(óÎ³Ù8Òåˆ¼0
+s
+java:S1192®"UDefine a constant instead of duplicating this literal "productCommentCount" 10 times.(ñÓòÑ8‚åˆ¼0
+f
+java:S1192°"HDefine a constant instead of duplicating this literal "bigPic" 12 times.(©§Ÿ‘8‚‚åˆ¼0
+k
+java:S1192ø"MDefine a constant instead of duplicating this literal "firstLetter" 12 times.(œæ¥©8‚‚åˆ¼0
+q
+java:S1192ò"NDefine a constant instead of duplicating this literal "productCount" 10 times.(µÆëÒúÿÿÿÿ8‚‚åˆ¼0
+m
+java:S1192ú"ODefine a constant instead of duplicating this literal "factoryStatus" 10 times.(ºäÖñ8‚‚åˆ¼0
+j
+java:S1192¶"LDefine a constant instead of duplicating this literal "showStatus" 10 times.(¾–Êƒ8ƒ‚åˆ¼0
+Z
+java:S11551">Use isEmpty() to check whether the collection is empty or not.(Á½¼s8…‚åˆ¼0
+`
+java:S1155K">Use isEmpty() to check whether the collection is empty or not.(í´Õûüÿÿÿÿ8…‚åˆ¼0
+}
+java:S14888"`Immediately return this expression instead of assigning it to the temporary variable "criteria".(¶Õ¯ì8…‚åˆ¼0
